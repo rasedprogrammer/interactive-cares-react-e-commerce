@@ -65,7 +65,8 @@ npm run dev
 ```
 
 The app will run on [http://localhost:5173](http://localhost:5173) by default.
-Live WebSite Link: [https://interactive-react-e-commerce.netlify.app/](https://interactive-react-e-commerce.netlify.app/).
+
+### Live WebSite Link: [https://interactive-react-e-commerce.netlify.app/](https://interactive-react-e-commerce.netlify.app/).
 
 ---
 
